@@ -47,7 +47,7 @@
 
   
 <details>
-  <summary><h2>⚙️ &nbsp;GitHub Analytics</h2></summary>
+  <summary><span style="font-size:24px;">⚙️ &nbsp;GitHub Analytics</span></summary>
     <br/>
     <div align="center">
 <img alt="Luiza's github stats"  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=LuizaSar&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/LuizaSar" />
