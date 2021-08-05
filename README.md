@@ -5,7 +5,9 @@
 <h4>A passionate Front-End developer who loves to learn and create new things </h4>
 </div>
 <hr/>
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louisesaratova@gmail.com)](mailto:louisesaratova@gmail.com)
+
+[![Gmail Badge](https://img.shields.io/badge/-Contact_email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louisesaratova@gmail.com)]
+
 <br/>
 
 <h2>🛠 &nbsp;Tech Stack</h2>  
