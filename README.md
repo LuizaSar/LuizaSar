@@ -1,8 +1,15 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS)
+### Hi there 👋 
 
-<hr></hr>
+<div align = "left"> 
+![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS)
+<div/>
+  
+<br/>
 
+<h2>📃 Github Stats</h2>
 
+<br/>
+  
 <div align="center" >
   
 <img alt="Luiza's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=LuizaSar&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/LuizaSar" />
