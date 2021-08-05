@@ -4,7 +4,7 @@
 <h2> Hi there 👋 I'm Luiza </h2>
 <h3>A passionate Front-End developer who loves to learn and create new things </h3>
 </div>
-  
+<hr/> 
 
 
 <h2>🛠 &nbsp;Tech Stack</h2>  
