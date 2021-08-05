@@ -10,7 +10,7 @@
   <br/>
 <a href="mailto:louisesaratova@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/sarlui11">
-  <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=for-the-badge&logo=Telegram&logoColor=white" />
+  <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-pink?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 </div>
 <br/>
