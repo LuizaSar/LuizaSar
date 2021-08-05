@@ -20,7 +20,6 @@
 ![JS](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=javaScript)
 ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.JS)
 ![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-blue?style=for-the-badge&logo=redux-thunk)
 ![React-Router](https://img.shields.io/badge/React_Router-yellow?style=for-the-badge&logo=react-router)
 ![Reselect](https://img.shields.io/badge/Reselect-red?style=for-the-badge&logo=reselect)
@@ -47,7 +46,7 @@
 
   
 <details>
-  <summary><span style="font-size:24px;">⚙️ &nbsp;GitHub Analytics</span></summary>
+  <summary><span style="font-size: 64px">⚙️ &nbsp;GitHub Analytics</span></summary>
     <br/>
     <div align="center">
 <img alt="Luiza's github stats"  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=LuizaSar&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/LuizaSar" />
