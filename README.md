@@ -4,10 +4,10 @@
 <h3>Hi there 👋 My name is Luiza</h3> 
 <h4>A passionate Front-End developer who loves to learn and create new things </h4>
 </div>
-<br/>
 
 <div align="center">
-  <div> Contact me </div>
+  <div> How to reach me: </div>
+  <br/>
 <a href="mailto:louisesaratova@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/sarlui11">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=for-the-badge&logo=Telegram&logoColor=white" />
