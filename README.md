@@ -1,8 +1,14 @@
 ### Hi there 👋 ![ViewCount](https://komarev.com/ghpvc/?username=LuizaSar&color=1A4730)
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizaSar&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&border_radius=0&bg_color=10,0077b5,d14836&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=true" alt="Github Stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaSar&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=10,6f7db0,e4405f&title_color=ffffff&text_color=ffffff&hide_title=true" alt="Top Langs">
+<div align="center" >
+  
+<a  href="https://github.com/LuizaSar"> 
+  
+<img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=LuizaSar&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/LuizaSar" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaSar&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/LuizaSar" />
+
+</a>
+
 </div>
 
 
