@@ -6,8 +6,9 @@
 </div>
 <hr/>
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louisesaratova@gmail.com)]
-<img align="center" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louisesaratova@gmail.com" alt="Email">
+<h3>How to reach me:</h3>
+<a href="mailto:louisesaratova@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
 
 <br/>
 
