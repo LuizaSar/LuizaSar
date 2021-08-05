@@ -2,10 +2,11 @@
 
 <div align="center">
 <h3>Hi there 👋 My name is Luiza</h3> 
-<h3>A passionate Front-End developer who loves to learn and create new things </h3>
+<h4>A passionate Front-End developer who loves to learn and create new things </h4>
 </div>
-<hr/> 
+<hr/>
 
+<br/>
 
 <h2>🛠 &nbsp;Tech Stack</h2>  
 <br/>
