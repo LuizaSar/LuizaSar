@@ -7,8 +7,6 @@
 <hr/>
 
 <h3>How to reach me: <a href="mailto:louisesaratova@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</h3>
-<hr>
-
 <br/>
 
 <h2>🛠 &nbsp;Tech Stack</h2>  
