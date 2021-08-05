@@ -3,9 +3,10 @@
 <div align="center">
 <h5> Hi there 👋 I'm Luiza </h5>
 <h5>A passionate Front-End developer who loves to learn and create new things </h5>
+<br/>
 </div>
   
-<br/>
+
 
 <h2>🛠 &nbsp;Tech Stack</h2>  
 <br/>
