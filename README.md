@@ -19,8 +19,8 @@
 
 ![JS](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=javaScript)
 ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-violet?style=for-the-badge&logo=redux)
-![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-violet?style=for-the-badge&logo=redux-thunk)
+![Redux](https://img.shields.io/badge/Redux-6f22c7?style=for-the-badge&logo=redux)
+![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-6f22c7?style=for-the-badge&logo=redux-thunk)
 ![React-Router](https://img.shields.io/badge/React_Router-yellow?style=for-the-badge&logo=react-router)
 ![Reselect](https://img.shields.io/badge/Reselect-red?style=for-the-badge&logo=reselect)
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
