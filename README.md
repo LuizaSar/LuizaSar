@@ -4,7 +4,7 @@
 <h3>Hi there 👋 My name is Luiza</h3> 
 <h4>A passionate Front-End developer who loves to learn and create new things </h4>
 </div>
-<hr/>
+<br/>
 
 <div align="center">
 <a href="mailto:louisesaratova@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
