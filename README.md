@@ -36,7 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-grey?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku)
-![WebStorm](https://img.shields.io/badge/WebStorm-blue?style=for-the-badge&logo=WebStorm)
+![WebStorm](https://img.shields.io/badge/WebStorm-navy?style=for-the-badge&logo=WebStorm)
 
 
   
