@@ -43,6 +43,9 @@
  
 <h2>Recent Projects</h2>  
   
+ * Каталог Телеграмм каналов на React/Redux 
+[Код](https://github.com/SheDeMere/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
+ 
 <br/>
 
   
