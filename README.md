@@ -4,7 +4,7 @@
 <h3>A passionate Front-End developer who loves to learn and create new things<h3/>   
   
 
-<h2>Github Stats### ⚙️ &nbsp;GitHub Analytics</h2>
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
 
 <br/>
   
