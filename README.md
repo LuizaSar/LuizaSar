@@ -1,4 +1,4 @@
-### Hi there 👋 ![ViewCount](https://komarev.com/ghpvc/?username=LuizaSar&color=1A4730)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS)
 
 <div align="center" >
   
