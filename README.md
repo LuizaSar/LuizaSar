@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views">
 
 <div align="center">
-<h3>Hi there! My name is Luiza</h3> 
+<h3>Hey! My name is Luiza</h3> 
 <h4>And I'm a passionate Front-End Developer who loves to learn and create new things </h4>
 </div>
 
@@ -41,7 +41,8 @@
   
  * Каталог Telegram-каналов (React/Redux) 
 [Код](https://github.com/LuizaSar/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
- 
+ * Десктопный чат (React/Redux)
+[Код](https://github.com/LuizaSar/react-chat) | [Демо](https://react-chat-11.herokuapp.com/)
 <br/>
 
   
