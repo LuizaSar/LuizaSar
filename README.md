@@ -3,10 +3,9 @@
 <div align="center">
 <h3>Hi there 👋 My name is Luiza</h3> 
 <h4>A passionate Front-End developer who loves to learn and create new things </h4>
- [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louisesaratova@gmail.com)](mailto:louisesaratova@gmail.com)
 </div>
 <hr/>
-
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louisesaratova@gmail.com)](mailto:louisesaratova@gmail.com)
 <br/>
 
 <h2>🛠 &nbsp;Tech Stack</h2>  
