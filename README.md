@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views">
 
 <div align="center">
-<b> Hi there 👋 I'm Luiza </b>
+# <b>Hi there 👋 My name is Luiza</b> 
 <h3>A passionate Front-End developer who loves to learn and create new things </h3>
 </div>
 <hr/> 
