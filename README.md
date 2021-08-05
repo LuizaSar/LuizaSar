@@ -8,7 +8,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louisesaratova@gmail.com)]
 <img align="center" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louisesaratova@gmail.com" alt="Email">
-(mailto:gabrielxavierbonano@gmail.com)
 
 <br/>
 
