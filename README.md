@@ -29,7 +29,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-green?style=for-the-badge&logo=Bootstrap)
 ![HTML](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=css3)
-![Styled-Components](https://img.shields.io/badge/StyledComponents-pink?style=for-the-badge&logo=StyledComponents)
+![Styled-Components](https://img.shields.io/badge/StyledComponents-salmon?style=for-the-badge&logo=StyledComponents)
 ![Material-UI](https://img.shields.io/badge/Material_UI-blue?style=for-the-badge&logo=material-ui)
 ![Prettier](https://img.shields.io/badge/Prettier-grey?style=for-the-badge&logo=prettier)
 ![ESLint](https://img.shields.io/badge/ESLint-blue?style=for-the-badge&logo=eslint)
