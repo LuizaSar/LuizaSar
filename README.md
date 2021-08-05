@@ -16,8 +16,6 @@
 <br/>
 
 <h2>🛠 &nbsp;Tech Stack</h2>  
-<br/>
-
 ![JS](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=javaScript)
 ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux)
