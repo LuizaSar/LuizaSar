@@ -3,7 +3,7 @@
 <h3> Hi there 👋 I'm Luiza </h3>
 <h3>A passionate Front-End developer who loves to learn and create new things<h3/>   
 
-    <hl> </hl>
+ <hl/>
     
 <h2>🛠 &nbsp;Tech Stack</h2>  
   
