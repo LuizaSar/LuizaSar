@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <tr>
       <td border="0">
         <a>
-          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LuizaSar&show_icons=truetheme=radical&include_all_commits=true" />
+          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LuSar&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
         </a>
       </td>
       <td border="0">
