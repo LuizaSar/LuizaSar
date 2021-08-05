@@ -1,12 +1,11 @@
 ### Hi there 👋 
 
-<div align="left"> 
+
 ![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS)
-</div>
   
 <br/>
 
-<h2>📃 Github Stats</h2>
+<h2>Github Stats</h2>
 
 <br/>
   
