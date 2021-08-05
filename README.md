@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views">
 
 <div align="center">
-<h3>Hi there 👋 My name is Luiza</h3> 
+<h3>Hi there! My name is Luiza</h3> 
 <h4>A passionate Front-End developer who loves to learn and create new things </h4>
 </div>
 
@@ -38,13 +38,11 @@
 ![Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku)
 ![WebStorm](https://img.shields.io/badge/WebStorm-navy?style=for-the-badge&logo=WebStorm)
 
-
-  
  
 <h2>Recent Projects</h2>  
   
- * Каталог Телеграмм каналов на React/Redux 
-[Код](https://github.com/SheDeMere/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
+ * Каталог Telegram-каналов (React/Redux) 
+[Код](https://github.com/LuizaSar/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
  
 <br/>
 
