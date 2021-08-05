@@ -1,8 +1,5 @@
-### Hi there 👋 
+### Hi there 👋 A developer who loves to learn and create new things.         ![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS)
 
-
-![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS)
-  
 <br/>
 
 <h2>Github Stats</h2>
