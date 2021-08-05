@@ -37,7 +37,7 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-navy?style=for-the-badge&logo=WebStorm)
 
  
-<h2>&#128187; Recent Projects</h2>  
+<h2>🖥 &#128421;  Recent Projects</h2>  
   
  * Каталог Telegram-каналов (React/Redux) 
 [Код](https://github.com/LuizaSar/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
