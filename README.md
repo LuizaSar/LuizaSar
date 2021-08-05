@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS) 
-
 <img align="right" src="https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views">
 
 <h5> Hi there 👋 I'm Luiza </h5>
