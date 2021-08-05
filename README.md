@@ -1,4 +1,4 @@
-<h1> Hi there 👋 A developer who loves to learn and create new things </h1>         ![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS)
+<h3> Hi there 👋 A developer who loves to learn and create new things  ![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS) </h3>  
 
 <br/>
 
