@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-<div align = "left"> 
+<div align="left"> 
 ![](https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS)
-<div/>
+</div>
   
 <br/>
 
