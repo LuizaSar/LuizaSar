@@ -3,7 +3,7 @@
 <div align="center">
 <h3>Hey! My name is Luiza</h3> 
 <h4>And I'm a passionate Front-End Developer that is always on the lookout for new challenges to develop and sharpen my skills.</h4>
- <h4>When not glued to my laptop coding, I can be found glued to my laptop scrolling through memes</h4>
+ <h4>* When not glued to my laptop coding, I can be found glued to my laptop scrolling through memes</h4>
 </div>
 
 <div align="center">
