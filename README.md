@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3>Hey! My name is Luiza</h3> 
-<h4>And I'm a passionate Front-End Developer who loves to learn and create new things </h4>
+<h4>And I'm a passionate Front-End Developer that is always on the lookout for new challenges to develop and sharpen my skills. </h4>
 </div>
 
 <div align="center">
