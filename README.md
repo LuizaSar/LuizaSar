@@ -42,7 +42,7 @@
   
  * Каталог Telegram-каналов (React/Redux) 
 [Код](https://github.com/LuizaSar/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
- * Десктопный чат (React/Redux)
+ * Online-чат (React/Redux)
 [Код](https://github.com/LuizaSar/react-chat) | [Демо](https://react-chat-11.herokuapp.com/)
 <br/>
 
