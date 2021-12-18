@@ -19,12 +19,12 @@
 
 <h2>&#128421;  Recent Projects</h2>  
   
- * Каталог Telegram-каналов (React/Redux) 
-[Код](https://github.com/LuizaSar/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
  * Online-чат (React/Redux)
 [Код](https://github.com/LuizaSar/react-chat) | [Демо](https://react-chat-11.herokuapp.com/)
 * IT Блог (React/Redux)
 [Код](https://github.com/LuizaSar/blog-app) | [Демо](https://blog-app-99.herokuapp.com)
+ * Каталог Telegram-каналов (React/Redux) 
+[Код](https://github.com/LuizaSar/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
 * Каталог фильмов и сериалов (React/Redux)
 [Код](https://github.com/LuizaSar/movie-app) 
 <br/>
