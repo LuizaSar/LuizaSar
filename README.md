@@ -26,7 +26,7 @@
  * Каталог Telegram-каналов (React/Redux) 
 [Код](https://github.com/LuizaSar/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
 * Каталог фильмов и сериалов (React/Redux)
-[Код](https://github.com/LuizaSar/movie-app) 
+[Код](https://github.com/LuizaSar/movie-app) | [Демо](https://movie-app-11.herokuapp.com)
 <br/>
 
   
