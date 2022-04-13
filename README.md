@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views">
 
 <div align="center">
- <h4>* When not glued to my laptop coding, I can be found glued to my laptop scrolling through memes</h4>
+ <h4>* i create stuff</h4>
 </div>
 
 <div align="center">
