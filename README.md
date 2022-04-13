@@ -1,7 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=LuizaSar&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views">
 
 <div align="center">
-<h3>Hey! My name is Luiza</h3> 
  <h4>* When not glued to my laptop coding, I can be found glued to my laptop scrolling through memes</h4>
 </div>
 
@@ -22,8 +21,6 @@
 [Код](https://github.com/LuizaSar/react-chat) | [Демо](https://react-chat-11.herokuapp.com/)
 * IT Блог (React/Redux)
 [Код](https://github.com/LuizaSar/blog-app) | [Демо](https://blog-app-99.herokuapp.com)
- * Каталог Telegram-каналов (React/Redux) 
-[Код](https://github.com/LuizaSar/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
 * Каталог фильмов и сериалов (React/Redux)
 [Код](https://github.com/LuizaSar/movie-app) | [Демо](https://movie-app-11.herokuapp.com)
 <br/>
